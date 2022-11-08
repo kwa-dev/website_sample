@@ -1,0 +1,65 @@
+#navigationbar ul li { list-style-type:none;
+					display:flex;
+					/*justify-content: space-between;*/
+					float:left;
+					/*text-align: center;*/
+					vertical-align: middle;
+					margin:10px;
+					padding:2px 10px;
+					background:transparent;
+					color: white;
+					}
+
+#navigationbar { background-color: #000000;	/*black*/
+				margin: 1px 0;
+				width: 100%;
+				float: left;
+				}
+
+#navigationbar ul { text-align: center; }
+
+#advertising { color: white;
+				background-color: #696969; /*dim grey*/
+				vertical-align: middle;
+				margin: 10px 0;
+				padding:5px;
+				}
+
+#advertising p {text-align: center;}				
+
+#region { background-color: #696969; /*dim grey*/
+		margin:0;
+		padding:25px;
+		color: white; }
+
+#advertising span a {
+	color: #2997ff;
+}		
+
+#continuebtn {
+	background-color: #2997ff;
+	color:#ffffff; //white
+}
+
+#iphone12pro {
+	margin-top: 0;
+	text-align: center;
+	color: white;
+	background-color: #000000;
+}
+
+#iphone12prolink {
+	margin:0;
+	padding: 0;
+	background-color: #000000;
+}
+
+#iphone12img { width: 100%; }
+#iphone12img img {width: 100%;
+				max-height: 400px;}
+
+#iphone12link {
+	align-content: center;
+}
+
+#iphone12link a { text-align: center; }
